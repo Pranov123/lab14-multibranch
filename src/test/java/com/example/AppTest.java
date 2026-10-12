@@ -9,6 +9,6 @@ public class AppTest {
     @Test
     void getGreetingReturnsHelloWorld() {
         App app = new App();
-        assertEquals("Hello World!", app.getGreeting());
+        assertEquals("Hello from feature/api", app.getGreeting());
     }
 }

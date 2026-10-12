@@ -3,7 +3,7 @@ package com.example;
 public class App {
 
     public String getGreeting() {
-        return "Hello World!";
+        return "Hello from feature/api";
     }
 
     public static void main(String[] args) {
